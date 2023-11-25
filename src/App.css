@@ -1,0 +1,142 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:ital,wght@0,700;1,400;1,800&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  border: 0;
+  margin: 0;
+
+}
+  
+
+body{
+  font-family: "Poppins";
+  margin: 0px auto;
+  background-color:hsl(0, 0%, 94%);
+  
+}
+.main-container{
+  width: 500px;
+  position: relative;
+  top: 150px;
+  height: 400px;
+  margin: 0px auto;
+  border-radius: 5px 5px 30% 5px;
+
+
+  background-color: white;
+}
+.grid{
+  display: flex;
+  margin-right: 20%;
+ 
+ 
+}
+#day{
+  width:80%;
+  border: 1px solid hsl(0, 0%, 86%);
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 10px;
+  height: 35px;
+  border-radius: 5px;
+ 
+  
+}
+#month{
+  width:80%;
+  border: 1px solid hsl(0, 0%, 86%);
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 10px;
+  height: 35px;
+  border-radius: 5px;
+ 
+}
+#year{
+  width:80%;
+  border: 1px solid hsl(0, 0%, 86%);
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 10px;
+  height: 35px;
+  border-radius: 5px;
+ 
+}
+.red{
+  color: red;
+}
+small{
+  position: absolute;
+  top: 70px;
+  font-weight: 200;
+  width:250px;
+  font-size: 10px;
+  left: 10px;
+}
+label{
+  padding: 5px;
+  font-size: 12px;
+  position: relative;
+  top: 10px;
+  left: 15px;
+}
+input{
+  font-weight: 800;
+  width: 50%;
+  
+}
+::placeholder{
+  font-weight: 700;
+  font-size: 18px;
+
+}
+.divider-container{
+  float: right;
+  position: relative;
+  bottom: 30px;
+  right: 25px;
+  
+}
+
+ hr{
+  height: 2px;
+  background-color: hsl(0, 0%, 86%);;
+  margin-top: 50px;
+  width: 90%;
+
+}
+button{
+   background-color:purple;
+  width: 60px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 50PX;
+  
+}
+.align{
+   display: flex;
+  gap: 4px;
+  position: relative; 
+  top: 50px;
+  
+}
+.highlighted{
+   display: flex;
+  align-items: center;
+  height: 1px;
+  color: purple;
+  font-size: 60px;
+  margin-bottom: 40px;
+  margin-left: 20PX;
+
+}
+.bold{
+  position: relative;
+  bottom: 40px;
+  font-size: 50px;
+  font-weight: 800;
+  margin-left: 3px;
+}
+
