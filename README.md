@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](age-calculator-main.netlify.app)
 
 ## My process
 
@@ -49,8 +49,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Add your name here](age-calculator-main.netlify.app)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
