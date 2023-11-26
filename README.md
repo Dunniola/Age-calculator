@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](age-calculator-main.netlify.app)
+- Live Site URL: [age-calculator-main.netlify.app]
 
 ## My process
 
@@ -49,7 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](age-calculator-main.netlify.app)
+- Website - [Dunniola](age-calculator-main.netlify.app)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
