@@ -37,7 +37,7 @@ Users should be able to:
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 
 ### Screenshot
-
+https://github.com/Dunniola/Age-calculator/blob/main/design/active-states.jpg
 ![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
