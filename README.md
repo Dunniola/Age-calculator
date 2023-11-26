@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source code](https://github.com/Dunniola/Age-calculator)
-- Live Site URL: [Netlify](https://age-calculator-main.netlify.app/)</a>
+- Live Site URL: [Netlify app](https://age-calculator-main.netlify.app/)</a>
 
 ## My process
 
